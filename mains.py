@@ -8,18 +8,15 @@ import os
 import sys
 
 
-print('''
-VV            VV EEEEEEEEEEEE RRRRRRRRRRR        AA
- VV          VV  EEEEEEEEEEEE RRRRRRRRRRR       AAAA
-  VV        VV   EE           RR       RR      AA  AA
-   VV      VV    EEEEEE       RRRRRRRRRR      AA    AA
-    VV    VV     EEEEEE       RRRRRRRR       AAAAAAAAAA     
-     VV  VV      EE           RR     RR     AAAAAAAAAAAA 
-      VVVV       EEEEEEEEEEEE RR      RR   AA          AA
-       VV        EEEEEEEEEEEE RR       RR AA            AA
-			VERA NEKILLNET		         Coder - @KaponeBoss
-	''') # la grafica ci sta
+os.system("clear")
+print("З А Г Р У З К А....")
+time.sleep(1.5)
+os.system("clear")
 
+print(colored( '''
+░▐█▀█▄░▐█▀▀░▐█▀█▄░▐█▀█▒▐█▀▀█▌░▐█▀█▄░▐█▀▀
+░▐█▌▐█░▐█▀▀░▐█▌▐█░▐█──▒▐█▄▒█▌░▐█▌▐█░▐█▀▀
+░▐█▄█▀░▐█▄▄░▐█▄█▀░▐█▄█▒▐██▄█▌░▐█▄█▀░▐█▄▄''','blue'))
 
 
 useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
