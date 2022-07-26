@@ -6,6 +6,7 @@ import re
 import urllib.request
 import os
 import sys
+import time
 
 
 os.system("clear")
@@ -13,10 +14,10 @@ print("З А Г Р У З К А....")
 time.sleep(1.5)
 os.system("clear")
 
-print(colored( '''
+print('''
 ░▐█▀█▄░▐█▀▀░▐█▀█▄░▐█▀█▒▐█▀▀█▌░▐█▀█▄░▐█▀▀
 ░▐█▌▐█░▐█▀▀░▐█▌▐█░▐█──▒▐█▄▒█▌░▐█▌▐█░▐█▀▀
-░▐█▄█▀░▐█▄▄░▐█▄█▀░▐█▄█▒▐██▄█▌░▐█▄█▀░▐█▄▄''','blue'))
+░▐█▄█▀░▐█▄▄░▐█▄█▀░▐█▄█▒▐██▄█▌░▐█▄█▀░▐█▄▄'''))
 
 
 useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
