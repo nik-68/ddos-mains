@@ -14,11 +14,6 @@ print("З А Г Р У З К А....")
 time.sleep(1.5)
 os.system("clear")
 
-print("
-░▐█▀█▄░▐█▀▀░▐█▀█▄░▐█▀█▒▐█▀▀█▌░▐█▀█▄░▐█▀▀
-░▐█▌▐█░▐█▀▀░▐█▌▐█░▐█──▒▐█▄▒█▌░▐█▌▐█░▐█▀▀
-░▐█▄█▀░▐█▄▄░▐█▄█▀░▐█▄█▒▐██▄█▌░▐█▄█▀░▐█▄▄ ")
-
 
 useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			"Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)",
